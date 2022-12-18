@@ -13,6 +13,7 @@ namespace Advanced_Exam.Service
     {
         public void CreateBillForRestaurant(OrderRepository orderRepository)
         {
+            HTMLCreator hTMLCreator = new HTMLCreator();
             double finalSum = 0;
             Console.WriteLine("Restorano čekis (Dienos Suvestinė)");
             foreach(var order in orderRepository.orders)
@@ -24,7 +25,8 @@ namespace Advanced_Exam.Service
                     $"Užsakymo suma {Math.Round(order._Sum,2)} Eur.\n\n");
             }
             Console.WriteLine($"Šiuo momentu restorano dienos čekį sudaro {Math.Round(finalSum,2)} Eur.\n" +
-                $"Spausdinamas čekis...\n");
+                $"Spausdinamas ir įrašomas čekis...\n");
+            hTMLCreator.CreateHTMLForRestaurant(orderRepository);
             if(finalSum == 0)
             {
                 return;
