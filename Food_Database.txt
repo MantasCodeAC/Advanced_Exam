@@ -1,0 +1,7 @@
+Kiaulienos šašlykas; Karštieji patiekalai ant iešmo; Tiekiamas su pasirinktomis daržovėmis ir pomidorų padažu, plikytais ryžiais ir marinuotais svogūnais; 6,20;False;1;10;
+Kiaulienos šašlykas(0.5); Karštieji patiekalai ant iešmo; Tiekiamas su pasirinktomis daržovėmis ir pomidorų padažu, plikytais ryžiais ir marinuotais svogūnais; 3,80;False;0,5;11;
+Vištienos šašlykas; Karštieji patiekalai ant iešmo; Tiekiamas su pasirinktomis daržovėmis ir paprikų majonezu, laukiniais ryžiais ir marinuotais svogūnais; 6,30;False;1;12;
+Vištienos šašlykas(0.5); Karštieji patiekalai ant iešmo; Tiekiamas su pasirinktomis daržovėmis ir paprikų majonezu, laukiniais ryžiais ir marinuotais svogūnais; 3,65;False;0,5;13;
+„Cezario“ salotos; Salotos; Traškūs salotų lapai, česnakiniai baltos duonos skrebučiai, kietasis sūris, pagardinti ančiuvių padažu, tiekiami su virtais kiaušiniais; 3,20;True;1;14;
+Bulvių traškučiai; Užkandžiai; Tiekiami pasirinktinai su saldžiarūgščiu aitriųjų paprikų padažu, paprikų majonezu arba kečiupu; 2,20;True;1;15;
+Charčio; Sriubos; Aštri gruziniška sriuba, tiekiama su bandele; 2,60;False;1;16;
