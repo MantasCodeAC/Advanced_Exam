@@ -26,11 +26,11 @@ namespace Advanced_Exam.Service
             }
             Console.WriteLine($"Šiuo momentu restorano dienos čekį sudaro {Math.Round(finalSum,2)} Eur.\n" +
                 $"Spausdinamas ir įrašomas čekis...\n");
-            hTMLCreator.CreateHTMLForRestaurant(orderRepository);
             if(finalSum == 0)
             {
                 return;
             }
+            hTMLCreator.CreateHTMLForRestaurant(orderRepository);
             SendEmail(orderRepository.orders[0], orderRepository);
         }
         public bool SendEmail(Order order, OrderRepository orderRepository)
