@@ -1,0 +1,4 @@
+Braškinis limonadas;GĖRIMAI;Naminis braškių limonadas su citrinomis ir mėtomis;2,10;false;100;
+Šalta Latte kava;KARŠTI GĖRIMAI;Išskirtinis saldaus ir subtilaus skonio gėrimas;1,60;false;101;
+Spritz kokteilis;ALKOHOLINIAI GĖRIMAI;Aperol trauktinė, putojantis vynas Prosecco, gazuotas vanduo, apelsino griežinėlis;7,20;true;102;
+Vanduo;GĖRIMAI;Vanduo su citrina;0;false;103;
